@@ -50,7 +50,7 @@ above.  Here is some pseudocode roughly describing the expected behavior:
 
 	If any of the above conditions are false
 	- The form is not allowed to be submitted
-	- Error messages are dislpayed
+	- Error messages are displayed
 ```
 
 If you are having trouble writing a regular expression to match against the
